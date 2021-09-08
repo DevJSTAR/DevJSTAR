@@ -25,6 +25,7 @@ const JSTAR = {
        DiscordUsername: JStarPakistaniGamerYT,
        DiscordTag: #9756,
        TotalGoals: 4
+}
 ```
 
 Join my server **[JSTAR's Wikis](https://dsc.gg/wikis)** to get the notifications about my new repos. you will get awesome, advance and cool **[BDFD](https://botdesignerdiscord.com/)/[Discord.PY](https://www.python.org/)/[Discord.JS](https://discord.js.org/)/[Aoi.JS](https://aoi.leref.ga)** Codes!
