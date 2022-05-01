@@ -1,5 +1,5 @@
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello, I am JSTAR. I use aoi.js and discord.js for coding alot.</p>
+<p align="center">Hello, I am JSTAR. I use aoi.js, discord.js, html, css, javascript and python for coding alot.</p>
 
 ## Hello, I am Junaid! <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
