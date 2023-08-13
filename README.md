@@ -1,5 +1,5 @@
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello, I am JSTAR. I use aoi.js, discord.js, html, css, javascript and python for coding alot.</p>
+<p align="center">Hello, I am JSTAR. I use html, css, javascript and python for coding alot.</p>
 
 ## Hello, I am Junaid! <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
@@ -8,12 +8,12 @@ const JSTAR = {
     RealName: "Junaid",
     FullName: "Muhammad Junaid",
     Age: "??",
-    Goals: ["Make A Huge Development Team", "Help All Discord Users", "Make +100 Custom Bots For Free", "Help New Ones"],
+    Goals: ["Make a big Dev Team", "Make a huge community", "Be helpful to people in need", "Master all languages"],
     Location: "Pakistan",
-    Description: "A weird man just joking around",
-    FavouriteLanguages: ["Aoi.JS", "Discord.JS"],
-    TeamsName: ["Discord Bots Dévelopment", "INTERNSHIPⒸ︎ Development"],
-    LanguagesLearnt: ["bdfd", "aoi.js", "discord.js", "discord.py", "html", "css"]
+    Description: "A goofy guy just joking around",
+    FavouriteLanguages: ["HTML", "CSS", "Python", "JavaScript"],
+    TeamsName: ["JSTAR's Dévelopment", "INTERSHIP Development"],
+    LanguagesLearnt: ["bdfd", "aoi.js", "discord.js", "discord.py", "html", "css", "c#", "c++"]
     Repositories: {
        Created: 5
     },
@@ -21,8 +21,7 @@ const JSTAR = {
        Teams: 2,
        PendingBots: 1,
        BotsCreated: +40,
-       DiscordUsername: JStarPakistaniGamerYT,
-       DiscordTag: #9756,
+       DiscordUsername: @jstargameryt,
        TotalGoals: 4
 }
 ```
