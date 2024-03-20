@@ -12,9 +12,9 @@ const JSTAR = {
     Goals: ["Make a development team", "Create an awesome community", "Provide support and free codes to newbies", "Master most languages"],
     Location: "Pakistan",
     Description: "nerd",
-    FavouriteLanguages: ["Html", "Css", "JavaScript", "Python"],
-    TeamsName: ["JSTAR's Dévelopment", "INTERSHIP Development"],
-    LanguagesLearnt: ["aoi.js", "discord.js", "discord.py", "html", "css", "javascript", "python", "c#", "c++"],
+    FavouriteLanguages: ["html", "css", "javascript", "python"],
+    TeamNames: ["JSTAR's Dévelopment", "INTERSHIP Development"],
+    LanguagesLearned: ["html", "css", "javascript", "python", "c#", "c++"],
     Repositories: {
        Created: 7
     },
