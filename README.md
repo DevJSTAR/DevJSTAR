@@ -1,25 +1,26 @@
-<h1 align="center">Who am I?</h1>
-<p align="center">Hello, I am JSTAR. I use html, css, javascript and python for coding alot.</p>
+# Who am I?
 
-## Hello, I am Junaid! <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+Hi there! I'm Muhammad Junaid, aka JSTAR, a 14-year-old full-stack web developer with a passion for Discord development. I've been part of the Discord community since the age of 9 and started coding when I was 10. With multiple course certificates in HTML, CSS, JS, and Python, I bring a wealth of knowledge to the development table.
+
+<img src="https://i.imgur.com/8D1fILf.png" height="auto" width="600px">
 
 ```js
 const JSTAR = {
     RealName: "Junaid",
     FullName: "Muhammad Junaid",
     Age: "??",
-    Goals: ["Make a big Dev Team", "Make a huge community", "Be helpful to people in need", "Master all languages"],
+    Goals: ["Make a development team", "Create an awesome community", "Provide support and free codes to newbies", "Master most languages"],
     Location: "Pakistan",
-    Description: "A goofy guy just joking around",
-    FavouriteLanguages: ["HTML", "CSS", "Python", "JavaScript"],
+    Description: "nerd",
+    FavouriteLanguages: ["Html", "Css", "JavaScript", "Python"],
     TeamsName: ["JSTAR's Dévelopment", "INTERSHIP Development"],
-    LanguagesLearnt: ["bdfd", "aoi.js", "discord.js", "discord.py", "html", "css", "c#", "c++"]
+    LanguagesLearnt: ["aoi.js", "discord.js", "discord.py", "html", "css", "javascript", "python"' "c#", "c++"]
     Repositories: {
-       Created: 5
+       Created: 7
     },
     Status: {
        Teams: 2,
-       PendingBots: 1,
+       PendingBots: ,
        BotsCreated: +40,
        DiscordUsername: @jstargameryt,
        TotalGoals: 4
@@ -29,7 +30,7 @@ const JSTAR = {
 <hr>
 <div>
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 </div>
 <hr>
 
