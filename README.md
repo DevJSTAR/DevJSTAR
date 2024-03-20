@@ -20,7 +20,7 @@ const JSTAR = {
     },
     Status: {
        Teams: 2,
-       PendingBots: ,
+       PendingBots: 3,
        BotsCreated: +40,
        DiscordUsername: @jstargameryt,
        TotalGoals: 4
