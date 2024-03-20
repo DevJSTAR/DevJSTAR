@@ -14,7 +14,7 @@ const JSTAR = {
     Description: "nerd",
     FavouriteLanguages: ["Html", "Css", "JavaScript", "Python"],
     TeamsName: ["JSTAR's Dévelopment", "INTERSHIP Development"],
-    LanguagesLearnt: ["aoi.js", "discord.js", "discord.py", "html", "css", "javascript", "python"' "c#", "c++"]
+    LanguagesLearnt: ["aoi.js", "discord.js", "discord.py", "html", "css", "javascript", "python", "c#", "c++"],
     Repositories: {
        Created: 7
     },
