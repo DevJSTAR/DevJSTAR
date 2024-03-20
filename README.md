@@ -8,7 +8,7 @@ Hi there! I'm Muhammad Junaid, aka JSTAR, a 14-year-old full-stack web developer
 const JSTAR = {
     RealName: "Junaid",
     FullName: "Muhammad Junaid",
-    Age: "??",
+    Age: "14",
     Goals: ["Make a development team", "Create an awesome community", "Provide support and free codes to newbies", "Master most languages"],
     Location: "Pakistan",
     Description: "nerd",
