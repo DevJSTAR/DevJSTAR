@@ -4,33 +4,33 @@ Hi there! I'm Muhammad Junaid, aka JSTAR, a 14-year-old full-stack web developer
 
 <img src="https://i.imgur.com/8D1fILf.png" height="auto" width="600px">
 
-```py
-JSTAR = {
-    "name": "Muhammad Junaid",
-    "age": 14,
-    "location": "Pakistan",
-    "religion": "Muslim",
-    "occupation": "Developer",
-    "languages": ["HTML", "CSS", "JavaScript", "Python", "C#", "C++"],
-    "teams": ["JSTAR's Dévelopment", "INTERSHIP Development"],
-    "discord_tag": "@jstargameryt",
-    "twitter": "@JStarGamerYT",
-    "instagram": "@iam._junaid",
-    "patreon": "jstarsdev",
-    "goals": [
+```js
+const JSTAR = {
+    name: "Muhammad Junaid",
+    age: 14,
+    location: "Pakistan",
+    religion: "Muslim",
+    occupation: "Developer",
+    languages: ["HTML", "CSS", "JavaScript", "Python", "C#", "C++"],
+    teams: ["JSTAR's Dévelopment", "INTERSHIP Development"],
+    discordTag: "@jstargameryt",
+    twitter: "@JStarGamerYT",
+    instagram: "@iam._junaid",
+    patreon: "jstarsdev",
+    goals: [
         "Create a development team",
         "Build an awesome community",
         "Assist newcomers in the field",
         "Master multiple programming languages",
         "Develop a successful Discord bot"
     ],
-    "total_bots": 35,
-    "pending_bots": ["PlanePal", "Multi-Life"],
-    "created_repositories": 7,
-    "discord_experience_years": 9,
-    "coding_experience_years": 4,
-    "start_age": 10
-}
+    totalBots: 35,
+    pendingBots: ["PlanePal", "Multi-Life"],
+    createdRepositories: 7,
+    discordExperienceYears: 9,
+    codingExperienceYears: 4,
+    startAge: 10
+};
 ```
 
 <hr>
