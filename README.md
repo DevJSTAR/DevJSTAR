@@ -27,7 +27,7 @@ const JSTAR = {
     totalBots: 35,
     pendingBots: ["PlanePal", "Multi-Life"],
     createdRepositories: 7,
-    discordExperienceYears: 9,
+    discordExperienceYears: 5,
     codingExperienceYears: 4,
     startAge: 10
 };
