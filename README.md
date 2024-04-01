@@ -15,7 +15,7 @@ const JSTAR = {
     teams: ["JSTAR's Dévelopment", "INTERSHIP Development"],
     discordTag: "@jstargameryt",
     twitter: "@JStarGamerYT",
-    instagram: "@iam._junaid",
+    instagram: ["@iam._junaid", "@jstarsdevelopment"],
     patreon: "jstarsdev",
     goals: [
         "Create a development team",
