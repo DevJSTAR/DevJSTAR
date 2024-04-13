@@ -33,13 +33,33 @@ const JSTAR = {
 };
 ```
 
-<hr>
-<div>
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
+## Languages I use:
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript">
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python">
+</a>
 </div>
-<hr>
 
-## My Server
-Join my server **[JSTAR's Wikis](https://dsc.gg/wikis)** to get the notifications about my new repos. you will get awesome, advance and cool **[BDFD](https://botdesignerdiscord.com/)/[Discord.PY](https://www.python.org/)/[Discord.JS](https://discord.js.org/)/[Aoi.JS](https://aoi.leref.ga)** Codes!
-![https://dsc.gg/wikis](https://media.discordapp.net/attachments/805715083598495754/885240123850108948/JSTARs_Wikis.gif)
+## Contact Me:
+
+- [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" width="24"/> iam._junaid](https://instagram.com/iam._junaid) - [jstarsdevelopment](https://instagram.com/jstarsdevelopment)
+
+- [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" width="24"/> jstargameryt](https://twitter.com/jstargameryt) - [jstarsdevelopment](https://twitter.com/jstarsdevelopment)
+
+- [<img src="https://img.icons8.com/color/48/000000/youtube-play--v2.png" alt="YouTube" width="24"/> jstarsdev](https://youtube.com/@jstarsdev)
+
+- <img src="https://img.icons8.com/color/48/000000/discord-logo--v2.png" alt="Discord" width="24"/> @jstargameryt - [server](https://jstarsdev.github.io/discord)
+
+- [<img src="https://img.icons8.com/color/48/000000/replit--v2.png" alt="Replit" width="24"/> JStarGamerYT](https://replit.com/@JStarGamerYT)
+
+- [<img src="https://img.icons8.com/color/48/000000/reddit--v2.png" alt="Reddit" width="24"/> JStarGamerYT](https://reddit.com/user/JStarGamerYT)
+
+- [<img src="https://img.icons8.com/color/48/000000/patreon--v2.png" alt="Patreon" width="24"/> jstarsdev](https://patreon.com/jstarsdev)
