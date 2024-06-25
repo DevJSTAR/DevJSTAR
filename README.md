@@ -45,11 +45,11 @@ const JSTAR = {
 ![C#](https://img.shields.io/badge/csharp-320081?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### Database
+#### Database:
 
 ![Sqlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
-#### IDEs
+#### IDEs:
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Replit](https://img.shields.io/badge/Replit-F26201?style=for-the-badge&logo=replit&logoColor=white)&nbsp;
