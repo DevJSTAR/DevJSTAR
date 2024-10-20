@@ -1,6 +1,6 @@
 ### Hi there, I'm [Muhammad Junaid](https://linktr.ee/jstarsdev) 👋
 
-Also known as JSTAR, a 14 year old full-stack web, app, graphic designer, and game developer also with a passion for Discord development. I've been a part of the Discord community since the age of 9 and started coding when I was 10. With multiple course certificates in HTML, CSS, JS, and Python, I bring a wealth of knowledge to the development table.
+Also known as JSTAR, a 15 year old full-stack web, app, graphic designer, and game developer also with a passion for Discord development. I've been a part of the Discord community since the age of 9 and started coding when I was 10. With multiple course certificates in HTML, CSS, JS, and Python, I bring a wealth of knowledge to the development table.
 
 <img src="https://i.imgur.com/8D1fILf.png" height="auto" width="600px">
 
