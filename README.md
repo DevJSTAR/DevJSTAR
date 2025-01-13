@@ -48,6 +48,8 @@ const JSTAR = {
 #### Database:
 
 ![Sqlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
 #### IDEs:
 
