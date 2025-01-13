@@ -1,4 +1,4 @@
-### Hi there, I'm [Muhammad Junaid](https://linktr.ee/jstarsdev) 👋
+### Hi there, I'm [Muhammad Junaid](https://junaid.xyz) 👋
 
 Also known as JSTAR, a 15 year old full-stack web, app, graphic designer, and game developer also with a passion for Discord development. I've been a part of the Discord community since the age of 9 and started coding when I was 10. With multiple course certificates in HTML, CSS, JS, and Python, I bring a wealth of knowledge to the development table.
 
@@ -63,7 +63,7 @@ const JSTAR = {
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linktree-43E660?&style=for-the-badge&logo=linktree&logoColor=white&color=43E660" />](https://linktr.ee/jstarsdev)
-[<img src ="https://img.shields.io/badge/website-5407E4?&style=for-the-badge&logo=www&logoColor=white">](https://jstarsdev.github.io)
+[<img src ="https://img.shields.io/badge/website-5407E4?&style=for-the-badge&logo=www&logoColor=white">](https://junaid.xyz)
 [<img src="https://img.shields.io/badge/discord-404EED?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/)
 [<img src="https://img.shields.io/badge/patreon-F96D59?&style=for-the-badge&logo=patreon&logoColor=white" />](https://patreon.com/jstarsdev)
 [<img src="https://img.shields.io/badge/instagram-E52765?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/iam.junaidd)
