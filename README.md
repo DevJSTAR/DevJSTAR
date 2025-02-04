@@ -67,7 +67,7 @@ const JSTAR = {
 [<img src="https://img.shields.io/badge/discord-404EED?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/)
 [<img src="https://img.shields.io/badge/patreon-F96D59?&style=for-the-badge&logo=patreon&logoColor=white" />](https://patreon.com/jstarsdev)
 [<img src="https://img.shields.io/badge/instagram-E52765?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/iam.junaidd)
-[<img src="https://img.shields.io/badge/twitter-000?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://twitter.com/jstargameryt) 
+[<img src="https://img.shields.io/badge/twitter-000?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://twitter.com/amjunaidd) 
 </p>
 
 <!-- <a href="https://github.com/devjstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devjstar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JSTAR's GitHub Stats" /></a> <a href="https://github.com/devjstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjstar&layout=compact&theme=buefy&hide_border=true" /></a> -->
